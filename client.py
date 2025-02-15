@@ -1,4 +1,4 @@
-import socket
+    import socket
 import select
 import errno
 import sys
